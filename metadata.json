@@ -1,0 +1,6 @@
+{
+  "name": "VYOM · GAS418S Aero Engine Digital Twin",
+  "description": "AI-enabled real-time digital twin for the Flygas GAS418S engine on DRDO Tapas-BH-201 UAV with 3D engine diagnostics, predictive RUL, Brayton thermodynamic cycle analysis, and CAS crew alerting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
